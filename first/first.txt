@@ -1,0 +1,14 @@
+Solution to non-code assignments
+
+********************************
+
+1. The `main` function
+
+5. `var value = 10 / 2`
+   type: double
+
+6.
+ a. true && true ==> true
+ b. false || false ==> false
+ c. (true && 1 != 2) || (4 > 3 && 100 < 1) ==> true
+ d. ((10 / 2) > 3) && ((10 % 2) == 0) ==> true
